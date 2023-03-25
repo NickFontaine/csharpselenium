@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/C#_Testing.csproj": {}
+  },
+  "projects": {
+    "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/C#_Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/C#_Testing.csproj",
+        "projectName": "C#_Testing",
+        "projectPath": "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/C#_Testing.csproj",
+        "packagesPath": "/Users/nicholasfontaine/.nuget/packages/",
+        "outputPath": "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicholasfontaine/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.27.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[111.0.5563.6400, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.32.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
