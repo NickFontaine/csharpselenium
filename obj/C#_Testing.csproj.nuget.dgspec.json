@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Firefoxbinary": {
+              "target": "Package",
+              "version": "[0.32.2, )"
+            },
             "Selenium.Firefox.WebDriver": {
               "target": "Package",
               "version": "[0.27.0, )"

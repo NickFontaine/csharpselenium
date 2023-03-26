@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "cpnsvVbUgdWUnQy6j0oejy632WyUReKlekC5UT3qGB+uv1HL1nplym05vtkgZYBXAaiSTEar/rbzkPT97OPWFg==",
-  "success": true,
+  "dgSpecHash": "DLsQ0O3cNh8doF54cPTXaEJ2x5y4YBHdnndbxmtrYuJt0nN1uk6t3gCYl0vqBrk5OGhE69duAbo74dlwGCDqrw==",
+  "success": false,
   "projectFilePath": "/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/C#_Testing.csproj",
   "expectedPackageFiles": [
     "/Users/nicholasfontaine/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
@@ -10,5 +10,15 @@
     "/Users/nicholasfontaine/.nuget/packages/selenium.webdriver.chromedriver/111.0.5563.6400/selenium.webdriver.chromedriver.111.0.5563.6400.nupkg.sha512",
     "/Users/nicholasfontaine/.nuget/packages/selenium.webdriver.geckodriver/0.32.2/selenium.webdriver.geckodriver.0.32.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Firefoxbinary. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Firefoxbinary",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
