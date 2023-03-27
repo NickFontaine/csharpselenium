@@ -1,0 +1,12 @@
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/bin/Debug/net7.0/PrimeService.deps.json
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/bin/Debug/net7.0/PrimeService.dll
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/bin/Debug/net7.0/PrimeService.pdb
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.csproj.AssemblyReference.cache
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.AssemblyInfoInputs.cache
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.AssemblyInfo.cs
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.dll
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/refint/PrimeService.dll
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/PrimeService.pdb
+/Users/nicholasfontaine/Documents/Test Projects/C#_Testing/unit-testing-using-nunit/PrimeService/obj/Debug/net7.0/ref/PrimeService.dll
